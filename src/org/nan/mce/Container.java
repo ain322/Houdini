@@ -5,6 +5,9 @@ package org.nan.mce;
 
 import org.nan.CantTouchThis;
 
+/**
+ * A container for illusionists ONLY!
+ */
 @CantTouchThis
 public interface Container {
 

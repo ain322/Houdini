@@ -15,9 +15,9 @@ public final class MilkCan implements Container {
 	
 	@Override
 	public void putInside(Illusionist illusionist) {
-		if (interior.size() >= 1) {
+		if (interior.size() >= 1)
 			throw new MilkCanIsFull();
-		}
+		
 		interior.add(illusionist);
 	}
 
