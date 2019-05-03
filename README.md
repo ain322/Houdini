@@ -1,5 +1,7 @@
 # TechneCandy #1 - Houdini, The Milk Can Escape
 
+Welcome to The Milk Can Escape Act! This is the total rewrite of the original The Milk Cannot Escape Act.
+
 **Disclaimer:** Purely for security reasons, the milk can is NOT, repeat, is NOT filled with water, please keep that in mind, thank you!
 
 Harry Houdini is performing his famous Milk Can Escape act. Your task is to help him escape the milk can, more precisely
